@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<windows>
+	<window ID="Single" width="74" height="86">
+		<layer name="cn.nandem.view.BackgroundLayer" x="0" y="0"/>
+		<layer name="cn.nandem.view.GameLayer" x="1" y="1"/>
+		<layer name="cn.nandem.view.NextLayer" x="45" y="1"/>
+		<layer name="cn.nandem.view.InfomationLayer" x="45" y="25"/>
+	</window>
+</windows>

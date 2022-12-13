@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<minos>
+	<mino name="cn.nandem.model.AlternateRotateMino" minocolor="IShape" width="4" height="1">
+		<block x="2" y="0"/>
+		<block x="0" y="0"/>
+		<block x="1" y="0"/>
+		<block x="3" y="0"/>
+	</mino>
+	<mino name="cn.nandem.model.NotRotateMino" minocolor="OShape" width="2" height="2">
+		<block x="1" y="0"/>
+		<block x="0" y="0"/>
+		<block x="1" y="1"/>
+		<block x="0" y="1"/>
+	</mino>
+	
+	<mino name="cn.nandem.model.AlternateRotateMino" minocolor="ZShape" width="3" height="2">
+		<block x="1" y="0"/>
+		<block x="0" y="0"/>
+		<block x="1" y="1"/>
+		<block x="2" y="1"/>
+	</mino>
+	<mino name="cn.nandem.model.AlternateRotateMino" minocolor="SShape" width="3" height="2">
+		<block x="1" y="0"/>
+		<block x="2" y="0"/>
+		<block x="1" y="1"/>
+		<block x="0" y="1"/>
+	</mino>
+	<mino name="cn.nandem.model.FullRotateMino" minocolor="JShape" width="3" height="2">
+		<block x="1" y="0"/>
+		<block x="0" y="0"/>
+		<block x="2" y="0"/>
+		<block x="2" y="1"/>
+	</mino>
+	<mino name="cn.nandem.model.FullRotateMino" minocolor="LShape" width="3" height="2">
+		<block x="1" y="0"/>
+		<block x="0" y="0"/>
+		<block x="0" y="1"/>
+		<block x="2" y="0"/>
+	</mino>
+	<mino name="cn.nandem.model.FullRotateMino" minocolor="TShape" width="3" height="2">
+		<block x="1" y="0"/>
+		<block x="0" y="0"/>
+		<block x="2" y="0"/>
+		<block x="1" y="1"/>
+	</mino>
+</minos>
